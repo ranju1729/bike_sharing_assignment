@@ -41,6 +41,9 @@ VIF scores (all < 5), indicating minimal multicollinearity among the predictors.
 - statsmodels - version 0.12.2
 - scikit-learn - version 0.24.1
 
+## Acknowledgements
+- Referenced wikipedia, stats.stackexchange.com, matplotlib.com(for Q-Q plot) etc
+
 
 ## Contact
 Created by [@ranju1729] - feel free to contact me!
